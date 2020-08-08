@@ -9,6 +9,7 @@
 I am in the first year of my master studies at the Wrocław university of Science and Technology. I study Automatics and Control Engineering at the Faculty of Electronics.  I graduated first degree as an Automatics and control engineer. My engineer specialization is Computer systems for industrial systems management. My master specialization is Information Technologies in Automation Systems. I personally define my skills as "Double Full Stack Developer", because I'm can programming starting from microchips (embedded) through backend services ending with frontend services.
 
 - 🔭 I’m currently working on my Face Lecture service. It helps me learn more about webservices and related technologies.
+- 🌱 In the near future I'd like to learn about Containerization, next Machine Learnig and mobile technologies like Flutter.
 - ⚡ Fun fact: All languages travels with speed of sound, only sign language travels with speed of light :)
 <br />
 <img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=albertlis&count_private=true" />
