@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there, it's Albert! 👋
 
-<!--
-**albertlis/albertlis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Let's stay in touch:
+[<img align="left" alt="helloroman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="helloroman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+<br />
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
+<img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=albertlis&count_private=true" />
+
+[youtube]: https://www.youtube.com/channel/UCpzjymCuVWVhVSEcUCJ7PSQ
+[linkedin]: www.linkedin.com/in/albertlis
